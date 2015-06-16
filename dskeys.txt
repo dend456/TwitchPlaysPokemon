@@ -1,0 +1,15 @@
+up w
+down s
+left a
+right d
+a x
+b z
+x v
+y c
+l q
+r e
+start t
+select r
+touching true
+dragging true
+inputDelay 0.05
